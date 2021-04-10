@@ -4,6 +4,8 @@ TSA 2020-2021 Video Game Design, adventure game.
 
 Hello, This project was created for the TSA 2020-2021 Video Game competition.
 
+Click on code button.
+
 Download the zip file, Then wait for download to be complete.
 
 Look for Bubble-Effect folder.
