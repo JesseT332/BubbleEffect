@@ -10,7 +10,7 @@ Look for Bubble-Effect folder.
 
 Double Click
 
-Extract ALL from Bubble-Effect floder.
+Extract ALL from Bubble-Effect folder.
 
 Select the exe.file with the Bubble-Effect title image on it.
 
